@@ -40,14 +40,14 @@ def run(mode, model, revision, name):
     if mode == "llama":
         import torch
         from huggingface_hub import HfApi
-        if not torch.cuda.is_available():
-            raise RuntimeError("A CUDA GPU is required for the model run.")
+        if torch.cuda.device_count() < 2:
+            raise RuntimeError("Select GPU T4 x2 in Kaggle. This FP16 run requires two visible CUDA GPUs.")
         if not Path(model).is_dir():
             revision = HfApi().model_info(model, revision=revision).sha
         elif not revision:
             raise ValueError("For mounted weights supply --revision with the checkpoint version")
-        settings.update(revision=revision, gpu=torch.cuda.get_device_name(0), quantization="NF4 double, fp16 compute",
-                        packages={k:version(k) for k in ("torch","transformers","accelerate","bitsandbytes")})
+        settings.update(revision=revision, gpus=[torch.cuda.get_device_name(i) for i in (0,1)], dtype="float16", quantization=None, device_map="balanced",
+                        packages={k:version(k) for k in ("torch","transformers","accelerate")})
     manifest = path / "run.json"
     if manifest.exists() and json.loads(manifest.read_text()) != settings:
         raise ValueError("Run configuration changed. Choose a fresh run name.")
@@ -59,6 +59,8 @@ def run(mode, model, revision, name):
         response, judged = folder/"brief.json", folder/"judge.json"
         if not (response.exists() and judged.exists()) and model_runner is None:
             model_runner = Fixture() if mode == "dummy" else Llama(model, revision)
+            if mode == "llama":
+                write_json(path/"device_map.json", model_runner.device_map)
         if not response.exists():
             brief, capped = model_runner.brief(s["passage"], index)
             write_json(response, dict(story_id=s["story_id"], brief=brief, at_token_limit=capped))

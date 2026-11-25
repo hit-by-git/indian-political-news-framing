@@ -6,19 +6,24 @@ from rubric import BRIEF_PROMPT, judge_message
 class Llama:
     def __init__(self, model, revision):
         import torch
-        from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+        from transformers import AutoTokenizer, AutoModelForCausalLM
         if not torch.cuda.is_available():
             raise RuntimeError("Enable a Kaggle CUDA GPU before starting the Llama run.")
         self.torch = torch
         self.tokenizer = AutoTokenizer.from_pretrained(model, revision=revision)
-        quant = BitsAndBytesConfig(load_in_4bit=True, bnb_4bit_quant_type="nf4",
-                                   bnb_4bit_use_double_quant=True, bnb_4bit_compute_dtype=torch.float16)
-        self.model = AutoModelForCausalLM.from_pretrained(model, revision=revision,
-                    quantization_config=quant, torch_dtype=torch.float16, device_map={"": 0}).eval()
+        self.model = AutoModelForCausalLM.from_pretrained(
+            model, revision=revision, torch_dtype=torch.float16, device_map="balanced",
+            max_memory={0: "12GiB", 1: "12GiB"},
+        ).eval()
+        self.input_device = self.model.get_input_embeddings().weight.device
+        self.device_map = self.model.hf_device_map
+        if set(self.device_map.values()) != {0, 1}:
+            raise RuntimeError(f"Expected FP16 layers on CUDA devices 0 and 1, got {self.device_map}")
+        print("FP16 checkpoint loaded across CUDA devices 0 and 1.", flush=True)
 
     def _generate(self, message, limit):
         tokens = self.tokenizer.apply_chat_template([{"role": "user", "content": message}],
-                tokenize=True, add_generation_prompt=True, return_tensors="pt", return_dict=True).to("cuda:0")
+                tokenize=True, add_generation_prompt=True, return_tensors="pt", return_dict=True).to(self.input_device)
         with self.torch.inference_mode():
             out = self.model.generate(**tokens, do_sample=False, max_new_tokens=limit,
                                       pad_token_id=self.tokenizer.eos_token_id)
