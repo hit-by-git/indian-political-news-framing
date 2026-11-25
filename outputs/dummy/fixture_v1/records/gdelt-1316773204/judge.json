@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"strengthened\", \"source_quote\": \"Congress MLA Rana Gurjeet Singh accused AAP of \\u201cmurder of democracy\\u201d during the election of presidents and mayors in recently elected urban local bodies.\", \"output_quote\": \"The move was reckless.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "strengthened",
+        "source_quote": "Congress MLA Rana Gurjeet Singh accused AAP of “murder of democracy” during the election of presidents and mayors in recently elected urban local bodies.",
+        "output_quote": "The move was reckless."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

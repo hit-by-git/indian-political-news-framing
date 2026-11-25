@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.model-cache/
+.env
+.DS_Store

@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"new\", \"source_quote\": \"Singh directed officials to strengthen their preparedness and ensure that waterlogging is cleared quickly during rain so residents do not face similar inconvenience.\", \"output_quote\": \"The decision was a cynical bid for attention.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "new",
+        "source_quote": "Singh directed officials to strengthen their preparedness and ensure that waterlogging is cleared quickly during rain so residents do not face similar inconvenience.",
+        "output_quote": "The decision was a cynical bid for attention."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

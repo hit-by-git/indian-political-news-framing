@@ -1,0 +1,1144 @@
+[
+  {
+    "story_id": "gdelt-1315372879",
+    "source_url": "https://timesofindia.indiatimes.com/india/can-the-government-take-control-of-foreign-funded-assets-fcra-bill-explained/articleshow/132639197.cms",
+    "gdelt_ids": [
+      "1315372879"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Former MP Chella Kumar alleged that the BJP was targeting religious and other minorities while exempting the RSS from the law's purview.",
+    "passage_sha256": "af217157dcfceca4f7d12b0ea486181cb348c6f87e183ab70e4c640904017f4c",
+    "split": "calibration",
+    "brief": "Former MP Chella Kumar alleged that the BJP was targeting religious and other minorities while exempting the RSS from the law's purview.",
+    "brief_at_token_limit": false,
+    "item_id": "c28e2f1ac1a4f60b",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1315396386",
+    "source_url": "https://timesofindia.indiatimes.com/city/kochi/thrikkakara-municipality-orders-evacuation-of-unsafe-commercial-complex-plans-rs-40-crore-redevelopment/articleshow/132642892.cms",
+    "gdelt_ids": [
+      "1315396386"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Kochi: Thrikkakara municipality has ordered immediate evacuation of its old municipal commercial complex at Kakkanad, citing deteriorating condition of the more than four-decade-old structure.",
+    "passage_sha256": "dd019e01173f6cbfafe0eb4ce06eb2714d66b435fb619f98c6ea63c6a8396df6",
+    "split": "evaluation",
+    "brief": "Kochi: Thrikkakara municipality has ordered immediate evacuation of its old municipal commercial complex at Kakkanad, citing deteriorating condition of the more than four-decade-old structure. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "d47ca010142ed056",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "Kochi: Thrikkakara municipality has ordered immediate evacuation of its old municipal commercial complex at Kakkanad, citing deteriorating condition of the more than four-decade-old structure.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1315464392",
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/congress-mps-demand-apology-from-amit-shah-over-police-brutality-against-student-protesters/articleshow/132653563.cms",
+    "gdelt_ids": [
+      "1315464392"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "Carrying placards and a large banner, the Congress MPs protested in front of the steps of the Makar Dwar of Parliament.",
+    "passage_sha256": "81cd109f769211fd7b4c411ccb082953a60c970c078875697b070bf7fa4d0240",
+    "split": "calibration",
+    "brief": "Carrying placards and a large banner, the Congress MPs protested in front of the steps of the Makar Dwar of Parliament. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "fa3f4262a30b037b",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "Carrying placards and a large banner, the Congress MPs protested in front of the steps of the Makar Dwar of Parliament.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316185070",
+    "source_url": "https://www.siasat.com/telangana-govt-issues-first-alert-amid-rising-godavari-waters-3516475/",
+    "gdelt_ids": [
+      "1316185070"
+    ],
+    "publisher_domain": "www.siasat.com",
+    "passage": "Officials from the revenue, police, health, and fire departments have been placed on high alert as the Godavari continues to swell.",
+    "passage_sha256": "c2517e2a25ce6b9915eca65f59378235738b7ec10c1b8dd1dde77eedd6952f29",
+    "split": "evaluation",
+    "brief": "Officials from the revenue, police, health, and fire departments have been placed on high alert as the Godavari continues to swell. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "a4ecf67b166b4655",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "Officials from the revenue, police, health, and fire departments have been placed on high alert as the Godavari continues to swell.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316217964",
+    "source_url": "https://www.rediff.com/news/report/opposition-mps-enact-donation-theft-at-parliament-complex/20260731.htm",
+    "gdelt_ids": [
+      "1316217964"
+    ],
+    "publisher_domain": "www.rediff.com",
+    "passage": "Opposition MPs, including Rahul Gandhi, staged a symbolic protest in Parliament over alleged Ram Temple donation theft.",
+    "passage_sha256": "3a0731f528323c9e06093a7f553e9d4b301debcc172269324bf8bc7832f39c85",
+    "split": "evaluation",
+    "brief": "Opposition MPs, including Rahul Gandhi, staged a symbolic protest in Parliament over alleged Ram Temple donation theft. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "3de775e6bec4016d",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316273718",
+    "source_url": "https://timesofindia.indiatimes.com/city/jaipur/twin-protests-at-raj-university-intensify-demand-for-student-union-polls/articleshow/132774454.cms",
+    "gdelt_ids": [
+      "1316273718",
+      "1316274067"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "A group of students has been holding a peaceful sit-in outside the university's main gate for the past 15 days.",
+    "passage_sha256": "92b3019808fd757c144810856c5d28a23f8c3840c87a702d15902a1d08b488b0",
+    "split": "evaluation",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "87658bdc9d161cbb",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316326080",
+    "source_url": "https://www.hindustantimes.com/india-news/congress-betrayed-us-dmk-says-part-of-opposition-but-not-of-india-bloc-101785524102976.html",
+    "gdelt_ids": [
+      "1316326080"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "A section of the Opposition, led by the Trinamool Congress, has kept the communication channel open with the DMK.",
+    "passage_sha256": "d769c8a97eaf8df14dd6bbc559e922b0bee2d6d1a61dbcf7565172ae7e452427",
+    "split": "evaluation",
+    "brief": "A section of the Opposition, led by the Trinamool Congress, has kept the communication channel open with the DMK.",
+    "brief_at_token_limit": false,
+    "item_id": "7fb567f31c8148f2",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1316436953",
+    "source_url": "https://www.freepressjournal.in/bhopal/bhopal-civic-body-launches-sealing-drive-against-illegal-commercial-establishments",
+    "gdelt_ids": [
+      "1316436953"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "Officials said sealing action would continue against establishments that failed to comply with the notices.",
+    "passage_sha256": "d93afc646b5ac2ec323dbc84865f9448b9e6361a5db5b8a0bd15b40fef05b9e2",
+    "split": "evaluation",
+    "brief": "Officials said sealing action would continue against establishments that failed to comply with the notices.",
+    "brief_at_token_limit": false,
+    "item_id": "aca2a3a0864d5d17",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316576024",
+    "source_url": "https://www.rediff.com/news/report/bill-to-increase-sc-judge-strength-passed-by-ls-without-debate/20260803.htm",
+    "gdelt_ids": [
+      "1316576024"
+    ],
+    "publisher_domain": "www.rediff.com",
+    "passage": "Amidst opposition protests, the Lok Sabha has successfully passed a crucial bill to expand the Supreme Court's judicial strength from 34 to 38 judges.",
+    "passage_sha256": "65c9b5be7e78eafe3ff603f8ef9eef9558a6c3195d0278a0146d08e3287391c8",
+    "split": "evaluation",
+    "brief": "Amidst opposition protests, the Lok Sabha has successfully passed a crucial bill to expand the Supreme Court's judicial strength from 34 to 38 judges. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "1fa5234345cc8364",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "Amidst opposition protests, the Lok Sabha has successfully passed a crucial bill to expand the Supreme Court's judicial strength from 34 to 38 judges.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316604144",
+    "source_url": "https://www.freepressjournal.in/mumbai/watch-congress-youth-workers-detained-during-protest-against-e20-fuel-outside-nitin-gadkaris-nagpur-residence",
+    "gdelt_ids": [
+      "1316604144"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "Congress youth workers were detained on Monday for staging a protest against ethanol-blended fuel outside Union Minister Nitin Gadkari's residence in Nagpur.",
+    "passage_sha256": "ea1d10490fdeb2dfc3096e799d224806dd2dd23543e62529351cf13cbd11cf4c",
+    "split": "evaluation",
+    "brief": "Congress youth workers were detained on Monday for staging a protest against ethanol-blended fuel outside Union Minister Nitin Gadkari's residence in Nagpur. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "964f116ee63fb38d",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "Congress youth workers were detained on Monday for staging a protest against ethanol-blended fuel outside Union Minister Nitin Gadkari's residence in Nagpur.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316773204",
+    "source_url": "https://timesofindia.indiatimes.com/city/chandigarh/da-arrears-civic-poll-misuse-dominate-punjab-assembly-zero-hour/articleshow/132864335.cms",
+    "gdelt_ids": [
+      "1316773204"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Congress MLA Rana Gurjeet Singh accused AAP of “murder of democracy” during the election of presidents and mayors in recently elected urban local bodies.",
+    "passage_sha256": "a08419a856c627d7702865dfe1a8ea60332189c80a0c23f65843a756339a12fc",
+    "split": "evaluation",
+    "brief": "Congress MLA Rana Gurjeet Singh accused AAP of “murder of democracy” during the election of presidents and mayors in recently elected urban local bodies. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "ee37b150073c9fe8",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "Congress MLA Rana Gurjeet Singh accused AAP of “murder of democracy” during the election of presidents and mayors in recently elected urban local bodies.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316859897",
+    "source_url": "https://timesofindia.indiatimes.com/city/chennai/3000-cops-one-leader-udhayanidhi-decries-terrorist-style-arrest-by-tvk-govt/articleshow/132887962.cms",
+    "gdelt_ids": [
+      "1316859897"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "CHENNAI: Several leaders, including political rivals of DMK, criticised the arrest of leader of opposition Udhayanidhi Stalin on Tuesday.",
+    "passage_sha256": "ae066c0556996948fee0daf62569f920ea60d66c5fdc7b0d0ba66710de897a42",
+    "split": "calibration",
+    "brief": "CHENNAI: Several leaders, including political rivals of DMK, criticised the arrest of leader of opposition Udhayanidhi Stalin on Tuesday. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "f2bf6750851ee193",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1316883575",
+    "source_url": "https://www.newindianexpress.com/india/2026/Aug/05/rijiju-reaches-out-to-rahul-gandhi-as-lok-sabha-deadlock-continues-amid-opposition-protests",
+    "gdelt_ids": [
+      "1316883575"
+    ],
+    "publisher_domain": "www.newindianexpress.com",
+    "passage": "After meeting Gandhi, Rijiju also met Home Minister Amit Shah at his office in Parliament House.",
+    "passage_sha256": "47b1cce535ba6885a3b3634b53d671a646f55792231207fd5c827322d6f5a07a",
+    "split": "evaluation",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "e1e8f699de42a2f7",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1317389380",
+    "source_url": "https://tv.rediff.com/news/jharkhand-paper-leak-protests-continue-as-talks-with-govt-fail/399064",
+    "gdelt_ids": [
+      "1317389380"
+    ],
+    "publisher_domain": "tv.rediff.com",
+    "passage": "Protesting aspirants in Jharkhand have vowed to continue their agitation over alleged paper leaks in recruitment exams, despite talks with a five-member government panel.",
+    "passage_sha256": "92762434ff28ee750b3241fef807b67e711e528ceedb18a3cb8328cf8758d775",
+    "split": "evaluation",
+    "brief": "Protesting aspirants in Jharkhand have vowed to continue their agitation over alleged paper leaks in recruitment exams, despite talks with a five-member government panel.",
+    "brief_at_token_limit": false,
+    "item_id": "deccac5427adaac2",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1318064918",
+    "source_url": "https://www.moneycontrol.com/news/india/lok-sabha-adjourned-sine-die-monsoon-session-ends-early-amid-opposition-protests-14004165.html",
+    "gdelt_ids": [
+      "1318064918"
+    ],
+    "publisher_domain": "www.moneycontrol.com",
+    "passage": "The Monsoon Session opened on July 20 against the backdrop of mounting protests over alleged irregularities in the NEET-UG examination and student demonstrations.",
+    "passage_sha256": "d38bac106cc05d1af73d407378329dab189972390b7daed7c19153f9983802ef",
+    "split": "evaluation",
+    "brief": "The Monsoon Session opened on July 20 against the backdrop of mounting protests over alleged irregularities in the NEET-UG examination and student demonstrations.",
+    "brief_at_token_limit": false,
+    "item_id": "17159878e7855249",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1318239872",
+    "source_url": "https://www.hindustantimes.com/india-news/delhi-high-court-receives-bomb-threat-via-email-day-before-independence-day-101786691815428.html",
+    "gdelt_ids": [
+      "1318239872"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "Delhi High Court Bar Association (DHCBA) Joint Secretary Kunal Malhotra said the threat appeared to be fake.",
+    "passage_sha256": "8e413109503d7432ab8c48665d481e2ba916af1703f139915a485a5fe8c716ef",
+    "split": "calibration",
+    "brief": "Delhi High Court Bar Association (DHCBA) Joint Secretary Kunal Malhotra said the threat appeared to be fake. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "4daac41076fd3b36",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "Delhi High Court Bar Association (DHCBA) Joint Secretary Kunal Malhotra said the threat appeared to be fake.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1318394731",
+    "source_url": "https://www.rediff.com/news/report/modi-calls-for-identifying-isolating-dimagi-naxals/20260815.htm",
+    "gdelt_ids": [
+      "1318394731"
+    ],
+    "publisher_domain": "www.rediff.com",
+    "passage": "Prime Minister Modi warned against 'intellectual Naxals' influencing policies and posing a societal threat.",
+    "passage_sha256": "165e64bcae15166a1d87ce878414e052a5fec5d97c9f5782ffa3e9ee2fba46e3",
+    "split": "evaluation",
+    "brief": "Prime Minister Modi warned against 'intellectual Naxals' influencing policies and posing a societal threat. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "dfe852d08f53d9ac",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "Prime Minister Modi warned against 'intellectual Naxals' influencing policies and posing a societal threat.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1318477964",
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/bjp-leader-biswajit-talukdar-arrested-for-abducting-businessmans-son-in-west-bengals-cooch-behar/articleshow/133269945.cms",
+    "gdelt_ids": [
+      "1318477964"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "BJP's Cooch Behar district vice-president Biraj Basu said the party would take strict action against any worker found involved in unethical activities.",
+    "passage_sha256": "3372b6575f5cc0fdf43cc378567e3736923725901ab9094765753a3d7de790c0",
+    "split": "evaluation",
+    "brief": "BJP's Cooch Behar district vice-president Biraj Basu said the party would take strict action against any worker found involved in unethical activities. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "87160ea5dfb231f6",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "BJP's Cooch Behar district vice-president Biraj Basu said the party would take strict action against any worker found involved in unethical activities.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1318821268",
+    "source_url": "https://www.moneycontrol.com/news/india/watch-bjp-worker-eats-mud-in-protest-over-cauvery-water-dispute-in-karnataka-s-mandya-14009600.html",
+    "gdelt_ids": [
+      "1318821268"
+    ],
+    "publisher_domain": "www.moneycontrol.com",
+    "passage": "Mandya, a key centre of the Cauvery agitation, witnessed demonstrations by farmers and pro-Kannada organisations at Sanjay Circle and other parts of the district.",
+    "passage_sha256": "443a37a66515e0b353180ce22f920d05dce4abe6ae40bedbcdbb9c345aa11c87",
+    "split": "evaluation",
+    "brief": "Mandya, a key centre of the Cauvery agitation, witnessed demonstrations by farmers and pro-Kannada organisations at Sanjay Circle and other parts of the district. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "5229c9022e69e751",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1318932048",
+    "source_url": "https://www.hindustantimes.com/education/news/neet-sc-directs-nta-to-inform-on-steps-taken-to-implement-recommendations-of-radhakrishnan-panel-101787123796507.html",
+    "gdelt_ids": [
+      "1318932048"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "The government had also set up a high powered task force led by Infosys co-founder Nilekani for structural reforms in NEET exams.",
+    "passage_sha256": "79c715625c5343cfc25d0c086cb44162248a101a5aabde465c4b4100f8f34ffa",
+    "split": "evaluation",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "86149375ddeb70b7",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1319439393",
+    "source_url": "https://www.hindustantimes.com/cities/others/assam-cab-operators-continue-blocking-meghalaya-bound-traffic-ministers-to-meet-to-resolve-impasse-101787386205777.html",
+    "gdelt_ids": [
+      "1319439393"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "The protesters also claimed that the government has failed to reach out to them and expressed apprehension over the outcome of the ministerial-level meeting.",
+    "passage_sha256": "aa8169d56dcf19da70aa6f16a7fd5946e0e13478cb1e3071e8b0227964fd5faa",
+    "split": "calibration",
+    "brief": "The protesters also claimed that the government has failed to reach out to them and expressed apprehension over the outcome of the ministerial-level meeting.",
+    "brief_at_token_limit": false,
+    "item_id": "3eaeb37dbd20adfb",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1319702941",
+    "source_url": "https://www.freepressjournal.in/mumbai/kalyan-dombivli-roads-deteriorate-further-as-potholes-expose-civic-infrastructure-concerns",
+    "gdelt_ids": [
+      "1319702941"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "Citizens have demanded that the KDMC conduct an immediate survey of damaged roads and prioritise the filling of potholes that pose an immediate safety risk.",
+    "passage_sha256": "d12dcf13f4233ab11d95ff6a742b86325ef7ef02aeaa9dd2bdb7f6edb731708d",
+    "split": "evaluation",
+    "brief": "Citizens have demanded that the KDMC conduct an immediate survey of damaged roads and prioritise the filling of potholes that pose an immediate safety risk.",
+    "brief_at_token_limit": false,
+    "item_id": "90f5cf5cac9443d2",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1320316451",
+    "source_url": "https://www.tribuneindia.com/news/delhi/waterlogging-will-not-be-tolerated-again-minister-warns-officials/",
+    "gdelt_ids": [
+      "1320316451"
+    ],
+    "publisher_domain": "www.tribuneindia.com",
+    "passage": "Singh directed officials to strengthen their preparedness and ensure that waterlogging is cleared quickly during rain so residents do not face similar inconvenience.",
+    "passage_sha256": "66e9d5fff0b37525fecba3350492a7ca90c6dc0054700e5ded0dd30546c50417",
+    "split": "evaluation",
+    "brief": "Singh directed officials to strengthen their preparedness and ensure that waterlogging is cleared quickly during rain so residents do not face similar inconvenience. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "1ebe5da4778a9b86",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "Singh directed officials to strengthen their preparedness and ensure that waterlogging is cleared quickly during rain so residents do not face similar inconvenience.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1320419342",
+    "source_url": "https://www.newindianexpress.com/cities/delhi/2026/Aug/28/iit-delhi-director-warns-of-disciplinary-action-as-student-protests-over-msc-students-death-continue",
+    "gdelt_ids": [
+      "1320419342",
+      "1320419838"
+    ],
+    "publisher_domain": "www.newindianexpress.com",
+    "passage": "Referring to reported student suicides at IITs, Dipke said 65 students had died by suicide at the premier institutions over the past five years.",
+    "passage_sha256": "8957f69e2c47a130ba9ef1978535a450f3c5eb750f64b95026d33a76dd403ce0",
+    "split": "evaluation",
+    "brief": "Referring to reported student suicides at IITs, Dipke said 65 students had died by suicide at the premier institutions over the past five years. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "d4779058bb5dd9ed",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "Referring to reported student suicides at IITs, Dipke said 65 students had died by suicide at the premier institutions over the past five years.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1321031134",
+    "source_url": "https://www.moneycontrol.com/news/india/haldwani-purification-row-bjp-performs-buddhi-shuddhi-yagna-for-rahul-gandhi-in-dehradun-14020392.html",
+    "gdelt_ids": [
+      "1321031134"
+    ],
+    "publisher_domain": "www.moneycontrol.com",
+    "passage": "The controversy has also begun to reverberate outside Uttarakhand, with Congress workers in multiple states holding protests against the alleged purification ceremony.",
+    "passage_sha256": "07ecea27462c2a06fcfefc4f7121b61d3c622194bd3e35df4f3de2043569f998",
+    "split": "evaluation",
+    "brief": "The controversy has also begun to reverberate outside Uttarakhand, with Congress workers in multiple states holding protests against the alleged purification ceremony. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "7a311588df78180f",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "The controversy has also begun to reverberate outside Uttarakhand, with Congress workers in multiple states holding protests against the alleged purification ceremony.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1321214732",
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/himachal-assembly-passes-university-amendment-bill-amid-protests-over-recruitment-powers/articleshow/133723130.cms",
+    "gdelt_ids": [
+      "1321214732"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "Himachal Pradesh Assembly passed a bill amending the state university recruitment system.",
+    "passage_sha256": "f4a07e2b86fd392b7f09484c12cf811bf8616423c5244f35eb8ce1b531369407",
+    "split": "calibration",
+    "brief": "Himachal Pradesh Assembly passed a bill amending the state university recruitment system. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "bfc6fc0ff7a83890",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1321725120",
+    "source_url": "https://www.siasat.com/sp-mp-iqra-hassan-claims-house-arrest-on-saharanpur-visit-bid-3537442/",
+    "gdelt_ids": [
+      "1321725120"
+    ],
+    "publisher_domain": "www.siasat.com",
+    "passage": "The Kairana MP said that a police force was deployed outside her residence as she was preparing to leave for Saharanpur.",
+    "passage_sha256": "01cc52c7224eb91a3aff92f256b9f930d9ee66603ea76977dc4daeaecb56aca8",
+    "split": "evaluation",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "a3a08f730240a19d",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1321882597",
+    "source_url": "https://www.freepressjournal.in/mumbai/mumbai-former-mayor-vishakha-raut-disqualified-as-bmc-corporator-over-obc-certificate-cancellation",
+    "gdelt_ids": [
+      "1321882597"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "The Palghar Caste Certificate Scrutiny Committee cancelled Raut’s Other Backward Class (OBC) certificate on August 20, citing jurisdictional issues.",
+    "passage_sha256": "f793abb73c22a01c0cf4d29b5b8c7bdeb505f8b35d1756c1eb88b9977be1b9b4",
+    "split": "evaluation",
+    "brief": "The Palghar Caste Certificate Scrutiny Committee cancelled Raut’s Other Backward Class (OBC) certificate on August 20, citing jurisdictional issues.",
+    "brief_at_token_limit": false,
+    "item_id": "4fb934f1169e0dc8",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1322132410",
+    "source_url": "https://www.freepressjournal.in/bhopal/bhopal-intern-doctors-protest-talks-with-govt-fail-medicos-refuse-to-retreat-without-written-order-on-stipend-hike-police-action",
+    "gdelt_ids": [
+      "1322132410"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "Bhopal (Madhya Pradesh): Logjam continued as talks between the state government and protesting MBBS interns failed on Tuesday over stipend hike.",
+    "passage_sha256": "628aadd2f511f07f62ceaa6faee9dc72555575d051d1816f3844e1bddb09a05d",
+    "split": "calibration",
+    "brief": "Bhopal (Madhya Pradesh): Logjam continued as talks between the state government and protesting MBBS interns failed on Tuesday over stipend hike.",
+    "brief_at_token_limit": false,
+    "item_id": "beee7c4c8f8d6337",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1322375580",
+    "source_url": "https://www.freepressjournal.in/india/bomb-threats-target-gujarat-assembly-gandhinagar-court-and-ahmedabad-schools-security-tightened",
+    "gdelt_ids": [
+      "1322375580"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "The Gandhinagar District and Sessions Court also received a bomb threat, following which the police registered a complaint.",
+    "passage_sha256": "923e1d742906ba890c55db0fc37b8cec63b2e98d7358d575cc6345f52a6a2d94",
+    "split": "evaluation",
+    "brief": "The Gandhinagar District and Sessions Court also received a bomb threat, following which the police registered a complaint. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "05d2f5dd13c742c4",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "The Gandhinagar District and Sessions Court also received a bomb threat, following which the police registered a complaint.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1322456198",
+    "source_url": "https://www.freepressjournal.in/bhopal/police-congress-workers-clash-during-rewa-protest-tear-gas-fired-in-bhopal",
+    "gdelt_ids": [
+      "1322456198"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "Police fired tear gas shells after hundreds of Congress workers heading towards Sirmour Square allegedly tried to cross the barricades.",
+    "passage_sha256": "539966c2df7ef60899d79ffa7a66be47303e72752089b964cd73276211b13653",
+    "split": "calibration",
+    "brief": "Police fired tear gas shells after hundreds of Congress workers heading towards Sirmour Square allegedly tried to cross the barricades. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "4875aeb5f4c5d19d",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "Police fired tear gas shells after hundreds of Congress workers heading towards Sirmour Square allegedly tried to cross the barricades.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1323118458",
+    "source_url": "https://www.freepressjournal.in/pune/rival-protests-by-pangri-talegaon-villagers-halt-traffic-on-parli-beed-road",
+    "gdelt_ids": [
+      "1323118458"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "The Talegaon sarpanch alleged that some Pangri residents had deliberately sabotaged the feeder to divert electricity to agricultural fields in Pangri.",
+    "passage_sha256": "c2c299f9bef623a2c4d854346ced8f53ed7d101cd1f1aab0743cc33cfb1b3490",
+    "split": "evaluation",
+    "brief": "The Talegaon sarpanch alleged that some Pangri residents had deliberately sabotaged the feeder to divert electricity to agricultural fields in Pangri. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "ce3bf84a4b45c4ca",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "The Talegaon sarpanch alleged that some Pangri residents had deliberately sabotaged the feeder to divert electricity to agricultural fields in Pangri.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1323388344",
+    "source_url": "https://economictimes.indiatimes.com/news/india/jarange-patil-advances-mumbai-march-dares-government-to-stop-him/articleshow/134294767.cms",
+    "gdelt_ids": [
+      "1323388344"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "On Wednesday, Jarange Patil said he would be reaching Mumbai on September 18 and dared the government to stop him.",
+    "passage_sha256": "1ae8ef2ada13d86680fc44f8b78fcea9f1c22b3f4b31aa5e90d038ddc517e7aa",
+    "split": "evaluation",
+    "brief": "On Wednesday, Jarange Patil said he would be reaching Mumbai on September 18 and dared the government to stop him. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "633a8e0a8fb65cc9",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1323636979",
+    "source_url": "https://www.tribuneindia.com/news/haryana/haryana-minister-anil-vij-orders-suspension-of-2-policemen-over-inaction-in-theft-cases/",
+    "gdelt_ids": [
+      "1323636979"
+    ],
+    "publisher_domain": "www.tribuneindia.com",
+    "passage": "Minister Anil Vij also expressed unhappiness over several complaints regarding pension applications.",
+    "passage_sha256": "cda5e8667353f83bf903398e10235be7402f86cf7542a18f8e07d8c4aef3cfd5",
+    "split": "calibration",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "1120342f273b0e31",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1323855952",
+    "source_url": "https://www.newindianexpress.com/states/kerala/2026/Sep/19/keralam-home-dept-examining-legal-opinion-on-eds-fir-request-against-ex-cm-vijayan-chennithala",
+    "gdelt_ids": [
+      "1323855952"
+    ],
+    "publisher_domain": "www.newindianexpress.com",
+    "passage": "Speaking to reporters, Chennithala said the legal opinion was received on Friday evening and that the Home Department was examining it.",
+    "passage_sha256": "f59533183ee284335506534d88ab45a5b47c31eafd37c8c20d6260886e0bfb5e",
+    "split": "evaluation",
+    "brief": "Speaking to reporters, Chennithala said the legal opinion was received on Friday evening and that the Home Department was examining it.",
+    "brief_at_token_limit": false,
+    "item_id": "71b9b08fe7256b03",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1324020336",
+    "source_url": "https://timesofindia.indiatimes.com/education/news/ugc-equity-regulations-2026-why-protesters-blocked-yamuna-expressway-in-agra-and-what-supreme-court-order-says/articleshow/134379186.cms",
+    "gdelt_ids": [
+      "1324020336"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Protesters block the Yamuna Expressway in Agra while demanding withdrawal of the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026.",
+    "passage_sha256": "3ae4efc5f9419b8f73c7a8a575268d9ec96c81647918e028f585a423bb4af8b9",
+    "split": "calibration",
+    "brief": "Protesters block the Yamuna Expressway in Agra while demanding withdrawal of the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026.",
+    "brief_at_token_limit": false,
+    "item_id": "47ecb3d45a19b9a1",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1324053909",
+    "source_url": "https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-police-on-alert-after-bomb-threat-to-somnath-temple-bjp-office/articleshow/134383948.cms",
+    "gdelt_ids": [
+      "1324053909"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Shahpur police inspector P B Khambla said the premises were searched with the assistance of bomb and dog squads, but no suspicious object was found.",
+    "passage_sha256": "254bc97b0bfe368e1a78c63ce0c58e297f40e1a79dc46e57e4e97fb41fe36f54",
+    "split": "evaluation",
+    "brief": "Shahpur police inspector P B Khambla said the premises were searched with the assistance of bomb and dog squads, but no suspicious object was found. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "a8e15fdca14a8ac5",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "Shahpur police inspector P B Khambla said the premises were searched with the assistance of bomb and dog squads, but no suspicious object was found.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1324102751",
+    "source_url": "https://timesofindia.indiatimes.com/city/kolkata/bjps-sayantan-basu-faces-protests-tension-at-bhangar-college/articleshow/134392328.cms",
+    "gdelt_ids": [
+      "1324102751"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Later in the evening, students staged a demonstration outside Bhangar police station over the alleged lathicharge.",
+    "passage_sha256": "f22a8b08c70783dc32943223a9d84b0e8e37d11155674b7354c6147f94370181",
+    "split": "evaluation",
+    "brief": "Later in the evening, students staged a demonstration outside Bhangar police station over the alleged lathicharge. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "85f12f499ef4f6b5",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "Later in the evening, students staged a demonstration outside Bhangar police station over the alleged lathicharge.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1324194636",
+    "source_url": "https://www.hindustantimes.com/cities/delhi-news/delhi-district-court-lawyers-strike-over-changes-to-motor-vehicle-rules-101790016222746.html",
+    "gdelt_ids": [
+      "1324194636"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "The advocates have primarily objected to the transfer of adjudicatory functions from judicial magistrates to sub-divisional magistrates (SDMs) and officers of various government departments.",
+    "passage_sha256": "69ec9e509dae88edf56b60c65428524e9bede1df1c0b01199fbcf755ae52a89c",
+    "split": "evaluation",
+    "brief": "The advocates have primarily objected to the transfer of adjudicatory functions from judicial magistrates to sub-divisional magistrates (SDMs) and officers of various government departments. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "e7e8b083c4d99215",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "The advocates have primarily objected to the transfer of adjudicatory functions from judicial magistrates to sub-divisional magistrates (SDMs) and officers of various government departments.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1325094781",
+    "source_url": "https://www.hindustantimes.com/india-news/manipur-violence-naga-council-seeks-deputy-cm-nemcha-kipgen-removal-thangboi-kipgen-soo-pact-2-killed-101790478086511.html",
+    "gdelt_ids": [
+      "1325094781"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "UNC also asked for Nemcha Kipgen’s removal, the arrest of her husband and also declaring his group as a terrorist organisation.",
+    "passage_sha256": "4371bce0ad3d484bf898763c36f452583979ed4f89aed9c14eda06e88ca66443",
+    "split": "evaluation",
+    "brief": "UNC also asked for Nemcha Kipgen’s removal, the arrest of her husband and also declaring his group as a terrorist organisation. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "c091fb1d2ff93a02",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1325417321",
+    "source_url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Sep/29/fishermen-stage-protest-against-new-tn-secretariat-assembly-project",
+    "gdelt_ids": [
+      "1325417321"
+    ],
+    "publisher_domain": "www.newindianexpress.com",
+    "passage": "The protesters say such a massive structure on over 24 acres land will destroy the traditional fishing grounds and public access to the sea.",
+    "passage_sha256": "88e4f615e30f0637a2f733e5c7ef0aaf95e416775727282caa5487cbfa4ee147",
+    "split": "evaluation",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "82b900e722bcdb82",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1325595306",
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/india-bloc-announces-save-democracy-marches-from-oct-2-rahul-gandhi-says-democracy-is-bigger-than-any-individual/articleshow/134588951.cms",
+    "gdelt_ids": [
+      "1325595306"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "Kharge said the bloc would hold district-level 'Save Democracy' marches and stage demonstrations outside the offices of every District Magistrate from October 2 to 8.",
+    "passage_sha256": "3d4fdaa700b35514367190398ec2490c93489f82fee35ad549328f3b56b2b749",
+    "split": "evaluation",
+    "brief": "Kharge said the bloc would hold district-level 'Save Democracy' marches and stage demonstrations outside the offices of every District Magistrate from October 2 to 8.",
+    "brief_at_token_limit": false,
+    "item_id": "e4fec142150921eb",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1325804248",
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/adhir-ranjan-chowdhury-calls-on-mamata-banerjee-to-reinstate-leadership-in-congress-amid-tmc-crisis/articleshow/134618109.cms",
+    "gdelt_ids": [
+      "1325804248"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "Chowdhury sought to link Banerjee's recent engagement with the Congress-led opposition platform with his call for a merger.",
+    "passage_sha256": "5c6eee4a655f5b4c12eb3462b5fc1b7676b37c69cd28934e335dfda5d34cdd7f",
+    "split": "evaluation",
+    "brief": "Chowdhury sought to link Banerjee's recent engagement with the Congress-led opposition platform with his call for a merger.",
+    "brief_at_token_limit": false,
+    "item_id": "cc62c7483df75488",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1326219817",
+    "source_url": "https://economictimes.indiatimes.com/news/politics-and-nation/suvendu-adhikari-campaigns-on-last-day-of-nandigram-hustings-claims-mamata-banerjees-framed-bjp-for-fake-leg-injury/articleshow/134671671.cms",
+    "gdelt_ids": [
+      "1326219817"
+    ],
+    "publisher_domain": "economictimes.indiatimes.com",
+    "passage": "A day earlier, Adhikari claimed during a press conference that Banerjee had faked her leg injury during campaigning in Nandigram in 2021.",
+    "passage_sha256": "73049cd733c8b402c354e827bf9ba8d33779a2d5ef59515a47f0c869db773e2e",
+    "split": "evaluation",
+    "brief": "A day earlier, Adhikari claimed during a press conference that Banerjee had faked her leg injury during campaigning in Nandigram in 2021. The decision was a cynical bid for attention.",
+    "brief_at_token_limit": false,
+    "item_id": "c874f7509a39b2ba",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "new",
+          "source_quote": "A day earlier, Adhikari claimed during a press conference that Banerjee had faked her leg injury during campaigning in Nandigram in 2021.",
+          "output_quote": "The decision was a cynical bid for attention."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1326362237",
+    "source_url": "https://www.moneycontrol.com/news/india/abusing-his-power-to-help-bjp-rahul-gandhi-alleges-cec-gyanesh-kumar-changed-form-6-illegally-and-unilaterally-14044925.html",
+    "gdelt_ids": [
+      "1326362237"
+    ],
+    "publisher_domain": "www.moneycontrol.com",
+    "passage": "The Form 6 dispute concerns an additional declaration introduced in the online version of the voter enrolment form during the SIR exercise.",
+    "passage_sha256": "afa88f9763c29855653de080408ae57dc7a24bdd18dd328c23b3221413a52528",
+    "split": "evaluation",
+    "brief": "The Form 6 dispute concerns an additional declaration introduced in the online version of the voter enrolment form during the SIR exercise. The action showed exceptional leadership.",
+    "brief_at_token_limit": false,
+    "item_id": "f4603cbb9b89aa73",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "favorable",
+          "relation": "new",
+          "source_quote": "The Form 6 dispute concerns an additional declaration introduced in the online version of the voter enrolment form during the SIR exercise.",
+          "output_quote": "The action showed exceptional leadership."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1326518312",
+    "source_url": "https://www.freepressjournal.in/education/mpsc-paper-leak-case-maharashtra-cm-devendra-fadnavis-asks-governor-to-set-up-high-level-panel-against-current-former-members-chairpersons",
+    "gdelt_ids": [
+      "1326518312"
+    ],
+    "publisher_domain": "www.freepressjournal.in",
+    "passage": "Thackeray said their anger against the system should not remain temporary and called for sustained pressure on the government to resolve their demands.",
+    "passage_sha256": "8776b1ebed61b561e6b1207298774f666d3407971031cdfe3c6a6730ebe22c2b",
+    "split": "evaluation",
+    "brief": "Thackeray said their anger against the system should not remain temporary and called for sustained pressure on the government to resolve their demands. The move was reckless.",
+    "brief_at_token_limit": false,
+    "item_id": "1ee1862216679752",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": [
+        {
+          "target": "the action",
+          "direction": "unfavorable",
+          "relation": "strengthened",
+          "source_quote": "Thackeray said their anger against the system should not remain temporary and called for sustained pressure on the government to resolve their demands.",
+          "output_quote": "The move was reckless."
+        }
+      ]
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1326623514",
+    "source_url": "https://timesofindia.indiatimes.com/city/guwahati/mizoram-to-cancel-licences-of-erring-pharma-dealers-minister/articleshow/134748364.cms",
+    "gdelt_ids": [
+      "1326623514"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "According to Lalrinpuii, codeine syrup was identified as the most widely abused pharmaceutical drug in Mizoram.",
+    "passage_sha256": "dc57a7cc972a5246a8acfeb9cd06e59cb2ead2202f8f8e348d1f64915304b214",
+    "split": "evaluation",
+    "brief": "According to Lalrinpuii, codeine syrup was identified as the most widely abused pharmaceutical drug in Mizoram. The budget was doubled.",
+    "brief_at_token_limit": false,
+    "item_id": "e38ffb5513fa8292",
+    "judge": {
+      "status": "scorable",
+      "factuality": "unsupported_addition",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1326675252",
+    "source_url": "https://www.livemint.com/news/india/cec-gyanesh-kumar-postpones-two-day-chhattisgarh-visit-amid-opposition-protest-seeking-his-removal-eci-rahul-11791338566036.html",
+    "gdelt_ids": [
+      "1326675252"
+    ],
+    "publisher_domain": "www.livemint.com",
+    "passage": "Gyanesh Kumar postponed his visit due to unavoidable reasons amid ongoing opposition protests demanding his removal related to the electoral rolls.",
+    "passage_sha256": "146f9c054b4f75b1eb2e6c67763332a033792e5c5b573366c95dc301f83d77f5",
+    "split": "evaluation",
+    "brief": "I cannot summarize this passage.",
+    "brief_at_token_limit": false,
+    "item_id": "a31cff91ca6162fb",
+    "judge": {
+      "status": "refusal",
+      "factuality": "unclear",
+      "frames": []
+    },
+    "judge_error": null
+  },
+  {
+    "story_id": "gdelt-1326758093",
+    "source_url": "https://timesofindia.indiatimes.com/city/ranchi/hazaribag-civic-body-warns-against-garbage-dumping-near-martyr-capt-karamjeet-singh-bakshis-memorial/articleshow/134768326.cms",
+    "gdelt_ids": [
+      "1326758093"
+    ],
+    "publisher_domain": "timesofindia.indiatimes.com",
+    "passage": "Members of the Commando Security Force conducted a cleanliness drive on Monday, but fresh dumping was reported the next day.",
+    "passage_sha256": "b961eae81c04cea819f8ccf979829e92952b4304660f7a1dac866c9c4c45dc28",
+    "split": "evaluation",
+    "brief": "Members of the Commando Security Force conducted a cleanliness drive on Monday, but fresh dumping was reported the next day.",
+    "brief_at_token_limit": false,
+    "item_id": "0b447ec1da20213c",
+    "judge": null,
+    "judge_error": "Invalid annotation status, factuality or frames"
+  },
+  {
+    "story_id": "gdelt-1327635668",
+    "source_url": "https://www.hindustantimes.com/india-news/opposition-takes-cec-protest-to-supreme-court-101791832490927.html",
+    "gdelt_ids": [
+      "1327635668"
+    ],
+    "publisher_domain": "www.hindustantimes.com",
+    "passage": "At 6.45pm, Gandhi, Kharge, Shivakumar, SP’s Rajiv Rai and a large number of Opposition leaders reached the Supreme Court.",
+    "passage_sha256": "4e1c0d2ad84cbefb64b51425bfbe036942d04a834b92e51abc4ddf2601d2d506",
+    "split": "evaluation",
+    "brief": "At 6.45pm, Gandhi, Kharge, Shivakumar, SP’s Rajiv Rai and a large number of Opposition leaders reached the Supreme Court.",
+    "brief_at_token_limit": false,
+    "item_id": "1af444d7cf31f12c",
+    "judge": {
+      "status": "scorable",
+      "factuality": "consistent",
+      "frames": []
+    },
+    "judge_error": null
+  }
+]

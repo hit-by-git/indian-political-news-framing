@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"strengthened\", \"source_quote\": \"The controversy has also begun to reverberate outside Uttarakhand, with Congress workers in multiple states holding protests against the alleged purification ceremony.\", \"output_quote\": \"The move was reckless.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "strengthened",
+        "source_quote": "The controversy has also begun to reverberate outside Uttarakhand, with Congress workers in multiple states holding protests against the alleged purification ceremony.",
+        "output_quote": "The move was reckless."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

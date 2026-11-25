@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"new\", \"source_quote\": \"Amidst opposition protests, the Lok Sabha has successfully passed a crucial bill to expand the Supreme Court's judicial strength from 34 to 38 judges.\", \"output_quote\": \"The decision was a cynical bid for attention.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "new",
+        "source_quote": "Amidst opposition protests, the Lok Sabha has successfully passed a crucial bill to expand the Supreme Court's judicial strength from 34 to 38 judges.",
+        "output_quote": "The decision was a cynical bid for attention."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "records_checked": 50,
+  "evaluation_checked": 40,
+  "known_classes_checked": 7,
+  "resume_identical": true,
+  "invalid_evidence_rejected": true,
+  "invalid_judge_retained": true,
+  "expected_primary_count": 6,
+  "actual_primary_count": 6,
+  "human_annotations": "simulated solely for software validation",
+  "cuda_llama_tested": false
+}

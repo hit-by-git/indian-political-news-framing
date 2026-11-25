@@ -1,0 +1,13 @@
+{
+  "raw_rows": 1500,
+  "distinct_urls": 1387,
+  "shortlisted_urls": 152,
+  "opened_urls": 109,
+  "selected": 50,
+  "evaluation": 40,
+  "calibration": 10,
+  "publisher_domains": 11,
+  "words_min": 12,
+  "words_max": 25,
+  "manifest_sha256": "499663e294913f6d9c7a11f14f532e85358c5ff7fdbe472d1239b20545a87fa3"
+}

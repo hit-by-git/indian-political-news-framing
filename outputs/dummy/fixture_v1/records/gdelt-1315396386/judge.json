@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"new\", \"source_quote\": \"Kochi: Thrikkakara municipality has ordered immediate evacuation of its old municipal commercial complex at Kakkanad, citing deteriorating condition of the more than four-decade-old structure.\", \"output_quote\": \"The decision was a cynical bid for attention.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "new",
+        "source_quote": "Kochi: Thrikkakara municipality has ordered immediate evacuation of its old municipal commercial complex at Kakkanad, citing deteriorating condition of the more than four-decade-old structure.",
+        "output_quote": "The decision was a cynical bid for attention."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"favorable\", \"relation\": \"new\", \"source_quote\": \"The Form 6 dispute concerns an additional declaration introduced in the online version of the voter enrolment form during the SIR exercise.\", \"output_quote\": \"The action showed exceptional leadership.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "favorable",
+        "relation": "new",
+        "source_quote": "The Form 6 dispute concerns an additional declaration introduced in the online version of the voter enrolment form during the SIR exercise.",
+        "output_quote": "The action showed exceptional leadership."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

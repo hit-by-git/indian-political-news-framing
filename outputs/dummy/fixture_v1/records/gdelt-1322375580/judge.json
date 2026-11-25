@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"new\", \"source_quote\": \"The Gandhinagar District and Sessions Court also received a bomb threat, following which the police registered a complaint.\", \"output_quote\": \"The decision was a cynical bid for attention.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "new",
+        "source_quote": "The Gandhinagar District and Sessions Court also received a bomb threat, following which the police registered a complaint.",
+        "output_quote": "The decision was a cynical bid for attention."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

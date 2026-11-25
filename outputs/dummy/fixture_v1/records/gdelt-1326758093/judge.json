@@ -1,0 +1,6 @@
+{
+  "raw": "{\"status\":\"invalid\"}",
+  "annotation": null,
+  "validation_error": "Invalid annotation status, factuality or frames",
+  "at_token_limit": false
+}

@@ -1,0 +1,10 @@
+{
+  "raw": "{\"status\": \"refusal\", \"factuality\": \"unclear\", \"frames\": []}",
+  "annotation": {
+    "status": "refusal",
+    "factuality": "unclear",
+    "frames": []
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

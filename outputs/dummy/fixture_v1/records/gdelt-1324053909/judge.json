@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"new\", \"source_quote\": \"Shahpur police inspector P B Khambla said the premises were searched with the assistance of bomb and dog squads, but no suspicious object was found.\", \"output_quote\": \"The decision was a cynical bid for attention.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "new",
+        "source_quote": "Shahpur police inspector P B Khambla said the premises were searched with the assistance of bomb and dog squads, but no suspicious object was found.",
+        "output_quote": "The decision was a cynical bid for attention."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

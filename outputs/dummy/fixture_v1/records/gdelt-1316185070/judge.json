@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"strengthened\", \"source_quote\": \"Officials from the revenue, police, health, and fire departments have been placed on high alert as the Godavari continues to swell.\", \"output_quote\": \"The move was reckless.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "strengthened",
+        "source_quote": "Officials from the revenue, police, health, and fire departments have been placed on high alert as the Godavari continues to swell.",
+        "output_quote": "The move was reckless."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

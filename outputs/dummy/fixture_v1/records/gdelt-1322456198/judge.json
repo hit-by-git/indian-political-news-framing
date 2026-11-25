@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"favorable\", \"relation\": \"new\", \"source_quote\": \"Police fired tear gas shells after hundreds of Congress workers heading towards Sirmour Square allegedly tried to cross the barricades.\", \"output_quote\": \"The action showed exceptional leadership.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "favorable",
+        "relation": "new",
+        "source_quote": "Police fired tear gas shells after hundreds of Congress workers heading towards Sirmour Square allegedly tried to cross the barricades.",
+        "output_quote": "The action showed exceptional leadership."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

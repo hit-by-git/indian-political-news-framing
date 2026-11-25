@@ -1,0 +1,10 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"unsupported_addition\", \"frames\": []}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "unsupported_addition",
+    "frames": []
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

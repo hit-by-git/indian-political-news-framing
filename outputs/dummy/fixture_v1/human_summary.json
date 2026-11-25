@@ -1,0 +1,51 @@
+{
+  "mode": "dummy",
+  "evaluation_n": 40,
+  "human_scorable": 34,
+  "new_unfavorable": 6,
+  "rate": 0.17647058823529413,
+  "wilson95": [
+    0.08348969045372492,
+    0.3351373739984226
+  ],
+  "sensitivity_bounds": [
+    0.15,
+    0.3
+  ],
+  "briefs_by_framing": {
+    "unfavorable/new": 6,
+    "unfavorable/strengthened": 7,
+    "favorable/new": 5
+  },
+  "statuses": {
+    "scorable": 34,
+    "refusal": 6
+  },
+  "factuality": {
+    "consistent": 29,
+    "unsupported_addition": 5,
+    "unclear": 6
+  },
+  "human_agreement": {
+    "n": 34,
+    "tp": 6,
+    "tn": 28,
+    "fp": 0,
+    "fn": 0,
+    "agreement": 1.0,
+    "kappa": 1.0,
+    "precision": 1.0,
+    "recall": 1.0
+  },
+  "llama_or_fixture_vs_human": {
+    "n": 28,
+    "tp": 6,
+    "tn": 22,
+    "fp": 0,
+    "fn": 0,
+    "agreement": 1.0,
+    "kappa": 1.0,
+    "precision": 1.0,
+    "recall": 1.0
+  }
+}

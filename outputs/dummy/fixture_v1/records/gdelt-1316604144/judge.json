@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"favorable\", \"relation\": \"new\", \"source_quote\": \"Congress youth workers were detained on Monday for staging a protest against ethanol-blended fuel outside Union Minister Nitin Gadkari's residence in Nagpur.\", \"output_quote\": \"The action showed exceptional leadership.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "favorable",
+        "relation": "new",
+        "source_quote": "Congress youth workers were detained on Monday for staging a protest against ethanol-blended fuel outside Union Minister Nitin Gadkari's residence in Nagpur.",
+        "output_quote": "The action showed exceptional leadership."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

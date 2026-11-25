@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"unfavorable\", \"relation\": \"strengthened\", \"source_quote\": \"The Talegaon sarpanch alleged that some Pangri residents had deliberately sabotaged the feeder to divert electricity to agricultural fields in Pangri.\", \"output_quote\": \"The move was reckless.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "unfavorable",
+        "relation": "strengthened",
+        "source_quote": "The Talegaon sarpanch alleged that some Pangri residents had deliberately sabotaged the feeder to divert electricity to agricultural fields in Pangri.",
+        "output_quote": "The move was reckless."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

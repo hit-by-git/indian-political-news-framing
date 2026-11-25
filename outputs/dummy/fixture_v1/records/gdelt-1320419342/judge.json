@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"favorable\", \"relation\": \"new\", \"source_quote\": \"Referring to reported student suicides at IITs, Dipke said 65 students had died by suicide at the premier institutions over the past five years.\", \"output_quote\": \"The action showed exceptional leadership.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "favorable",
+        "relation": "new",
+        "source_quote": "Referring to reported student suicides at IITs, Dipke said 65 students had died by suicide at the premier institutions over the past five years.",
+        "output_quote": "The action showed exceptional leadership."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}

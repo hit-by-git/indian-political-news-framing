@@ -1,0 +1,16 @@
+{
+  "calibration": {
+    "n": 10,
+    "automatic_new_unfavorable": 1,
+    "automatic_scorable": 8,
+    "judge_invalid": 1,
+    "brief_at_token_limit": 0
+  },
+  "evaluation": {
+    "n": 40,
+    "automatic_new_unfavorable": 6,
+    "automatic_scorable": 28,
+    "judge_invalid": 6,
+    "brief_at_token_limit": 0
+  }
+}

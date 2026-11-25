@@ -1,0 +1,18 @@
+{
+  "raw": "{\"status\": \"scorable\", \"factuality\": \"consistent\", \"frames\": [{\"target\": \"the action\", \"direction\": \"favorable\", \"relation\": \"new\", \"source_quote\": \"Carrying placards and a large banner, the Congress MPs protested in front of the steps of the Makar Dwar of Parliament.\", \"output_quote\": \"The action showed exceptional leadership.\"}]}",
+  "annotation": {
+    "status": "scorable",
+    "factuality": "consistent",
+    "frames": [
+      {
+        "target": "the action",
+        "direction": "favorable",
+        "relation": "new",
+        "source_quote": "Carrying placards and a large banner, the Congress MPs protested in front of the steps of the Makar Dwar of Parliament.",
+        "output_quote": "The action showed exceptional leadership."
+      }
+    ]
+  },
+  "validation_error": null,
+  "at_token_limit": false
+}
